@@ -1,0 +1,7 @@
+/*
+    DEFAULT STYLES, ADD TO YOUR CSS
+ */
+
+.showmore_content		{ position:relative; overflow:hidden; }
+.showmore_trigger 		{ width:100%; height:45px; line-height:45px; cursor:pointer; }
+.showmore_trigger span	{ display:block; }
