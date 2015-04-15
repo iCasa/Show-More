@@ -1,6 +1,7 @@
 /*
  * Show More jQuery Plugin
  * Author: Jason Alvis
+ * Author Site: http://jasonalvis.co.uk 
  * License: Free General Public License (GPL)
  * Version: 1.1.0
  * Date: 15.04.2015
